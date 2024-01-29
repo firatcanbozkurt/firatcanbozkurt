@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/firatcanbozkurt/firatcanbozkurt/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
