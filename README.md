@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I’m @firatcanbozkurt<br>👀 I’m interested in Web development and Machine Learning</h3>
+<h3 align="left">👋 Hi, I’m @firatcanbozkurt<br>👀 I’m a Full Stack Engineer</h3>
 
 ###
 
